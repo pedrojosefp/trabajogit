@@ -2,3 +2,9 @@ h1{
     background-color: black;
     color: white;
 }
+
+img{
+    height: 200p;
+    width: 300px;
+    border-radius: 50px;
+}
